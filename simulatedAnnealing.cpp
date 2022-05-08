@@ -163,10 +163,7 @@ int main()
 
     return 0;
 }
-<<<<<<< HEAD
-=======
 
 
 // changed
 
->>>>>>> 20124aa686c8fa96fdf02ee9afa8115751df45ce
